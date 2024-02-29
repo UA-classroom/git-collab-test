@@ -1,4 +1,7 @@
 def myfirstfunc():
-    print("newfrommain")
+    print("newnewnewsecond")
     print("hello")
-    print("newfrommainagain")
+    print("newnewnewsecond")
+
+def newfunc():
+    print("newfunc")
